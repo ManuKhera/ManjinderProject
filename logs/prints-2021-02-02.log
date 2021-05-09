@@ -1,0 +1,9 @@
+21:54:19.252 [main] INFO  resources.base - driver is initialized
+21:57:55.567 [main] INFO  resources.base - driver is initialized
+21:57:59.426 [main] INFO  resources.base - url is open
+21:57:59.529 [main] INFO  resources.base - successfully display
+21:58:02.932 [main] INFO  resources.base - driver is initialized
+21:58:06.522 [main] INFO  resources.base - url is open
+21:58:12.071 [main] INFO  resources.base - url is open
+21:58:20.360 [main] INFO  resources.base - Text is displayed
+21:58:20.413 [main] INFO  resources.base - bar is displayed

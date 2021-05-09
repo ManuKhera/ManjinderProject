@@ -1,0 +1,8 @@
+17:25:54.862 [TestNG-tests-2] INFO  resources.base - url is open
+17:25:55.062 [TestNG-tests-1] INFO  resources.base - url is open
+17:25:55.171 [TestNG-tests-1] INFO  resources.base - successfully display
+17:25:55.665 [TestNG-tests-3] INFO  resources.base - Text is displayed
+17:25:55.743 [TestNG-tests-3] INFO  resources.base - bar is displayed
+17:26:00.339 [TestNG-tests-2] INFO  resources.base - url is open
+17:27:07.684 [TestNG-tests-1] INFO  resources.base - driver is initialized
+17:27:07.743 [TestNG-tests-2] INFO  resources.base - driver is initialized
